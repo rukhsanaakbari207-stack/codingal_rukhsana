@@ -1,0 +1,8 @@
+print("my dayily routine")
+print("i wekup at 8am")
+print("i do breakfast at 9am")
+print("i do my homework at 10am")
+print("i go to park at 11am")
+print("i come back home at 1pm")
+print("i love to play cricket")
+print("i have dinner at 9pm")

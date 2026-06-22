@@ -1,4 +1,4 @@
-birthday1 = "jun 3"
+birthday1 = "c:\Users\noor\Desktop\my-daily-routine-printer\routine.pyjun 3"
 birthday2 = "2000"
 birthday3 = "may 19"
 birthday4 = "march 7"
